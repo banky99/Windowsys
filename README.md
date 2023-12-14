@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Welcome to My GitHub Project Page</title>
+    <title>Welcome festus  GitHub Project Page</title>
     <style>
         body {
             font-family: Arial, sans-serif;
